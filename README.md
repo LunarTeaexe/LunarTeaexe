@@ -7,3 +7,6 @@ Im a computer science major with plans to graduate December 2025. I love data sc
 - **Currently Learning**: Python, C++
 - **Tools**: VS Code, Git, GitHub
 - **Interests**: Accessibility and databases. 
+
+## 🌱 What I'm Currently Working On
+- Studying for my last semester, and working on more SQL databases. 
