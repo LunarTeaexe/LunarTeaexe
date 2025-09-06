@@ -10,3 +10,8 @@ Im a computer science major with plans to graduate December 2025. I love data sc
 
 ## 🌱 What I'm Currently Working On
 - Studying for my last semester, and working on more SQL databases. 
+
+## ⚡ Fun Facts
+- Huge reader, loving books since I was a child, especially audiobooks.
+- Cat parent of 3.
+- Big fan of video games, especially the Final Fantasy series
